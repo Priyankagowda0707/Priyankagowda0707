@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **https://linkedin.com/in/priyanka gowda**
+- 📫 How to reach me **https://linkedin.com/in/priyankagowda**
 
 - ⚡ Fun fact **The MERN stack (MongoDB, Express.js, React, Node.js) is so popular because you can build an entire web application—front-end, back-end, and database—using just one programming language: JavaScript! 🎯🚀 No need to switch languages for different layers of your app—JavaScript rules them all! 😎💻**
 
