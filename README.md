@@ -1,3 +1,5 @@
+
+![logo](https://github.com/Priyankagowda0707/Priyankagowda0707/blob/main/Blue%20Futuristic%20Technology%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm PRIYANKA GOWDA</h1>
 <h3 align="center">Weaving Digital Dreams with Code | MERN Stack developer Transforming Ideas into Immersive Web Experiences</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ1YTBqcTQzeGNwbnpiaDZpcXM5aGlnYm4xYnVnc3B2YzNmcHlueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
